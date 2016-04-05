@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PROJET IF11" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PROJET IF11" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PROJET IF11" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="couleur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dico.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="header.h" />
+		<Unit filename="lirecaractere.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="memoire.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="memoirelvl1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="memoirelvl2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="memoirelvl3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pendu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pendu2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pendugagne.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pendumenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="plusmoins.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="plusmoins2j.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="plusmoinslvl1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="plusmoinslvl2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="plusmoinslvl3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rand.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recherchelettre.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

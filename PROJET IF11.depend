@@ -1,0 +1,465 @@
+# depslib dependency file v1.0
+1399387914 source:c:\users\adurance\projet if11\couleur.c
+	<windows.h>
+
+1399391020 source:c:\users\adurance\projet if11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"header.h"
+
+1399389444 c:\users\adurance\projet if11\header.h
+
+1399391547 source:c:\users\adurance\projet if11\memoire.c
+	<stdio.h>
+	<stdlib.h>
+
+1399389472 source:c:\users\adurance\projet if11\pendu.c
+	<stdio.h>
+	<stdlib.h>
+
+1399391547 source:c:\users\adurance\projet if11\plusmoins.c
+	<stdio.h>
+	<stdlib.h>
+
+1399391433 source:c:\users\adurance\projet if11\memoirelvl1.c
+
+1399391449 source:c:\users\adurance\projet if11\memoirelvl2.c
+
+1399391529 source:c:\users\adurance\projet if11\memoirelvl3.c
+
+1399391399 source:c:\users\adurance\projet if11\plusmoins2j.c
+
+1399391285 source:c:\users\adurance\projet if11\plusmoinslvl1.c
+
+1399391301 source:c:\users\adurance\projet if11\plusmoinslvl2.c
+
+1399391320 source:c:\users\adurance\projet if11\plusmoinslvl3.c
+
+1399394684 source:g:\projet if11\couleur.c
+	<windows.h>
+
+1400235434 source:g:\projet if11\memoire.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400236774 g:\projet if11\header.h
+
+1400236684 source:g:\projet if11\memoirelvl1.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400236922 source:g:\projet if11\memoirelvl2.c
+	<stdio.h>
+	<stdlib.h>
+
+1400235434 source:g:\projet if11\memoirelvl3.c
+	<stdio.h>
+	<stdlib.h>
+
+1399394684 source:g:\projet if11\pendu.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400232814 source:g:\projet if11\plusmoins.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400236160 source:g:\projet if11\plusmoins2j.c
+	<stdio.h>
+	<stdlib.h>
+
+1400236160 source:g:\projet if11\plusmoinslvl1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1400236160 source:g:\projet if11\plusmoinslvl2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1400236160 source:g:\projet if11\plusmoinslvl3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1400233768 source:g:\projet if11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"header.h"
+
+1400236000 source:g:\projet if11\rand.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1400236002 source:g:\projet if11\test1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1400236604 source:g:\projet if11\test2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1400236776 source:g:\projet if11\test3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1399394684 source:c:\users\aurelien\desktop\projet if11\couleur.c
+	<windows.h>
+
+1400601985 source:c:\users\aurelien\desktop\projet if11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"header.h"
+
+1401808783 c:\users\aurelien\desktop\projet if11\header.h
+
+1400232814 source:c:\users\aurelien\desktop\projet if11\plusmoins.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400236160 source:c:\users\aurelien\desktop\projet if11\plusmoins2j.c
+	<stdio.h>
+	<stdlib.h>
+
+1400236160 source:c:\users\aurelien\desktop\projet if11\plusmoinslvl1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1400236160 source:c:\users\aurelien\desktop\projet if11\plusmoinslvl2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1400236160 source:c:\users\aurelien\desktop\projet if11\plusmoinslvl3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1400254799 source:c:\users\aurelien\desktop\projet if11\memoire.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400254799 source:c:\users\aurelien\desktop\projet if11\memoirelvl1.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400254799 source:c:\users\aurelien\desktop\projet if11\memoirelvl2.c
+	<stdio.h>
+	<stdlib.h>
+
+1400254799 source:c:\users\aurelien\desktop\projet if11\memoirelvl3.c
+	<stdio.h>
+	<stdlib.h>
+
+1400600285 source:c:\users\aurelien\desktop\projet if11\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"header.h"
+
+1400603291 source:c:\users\aurelien\desktop\projet if11\pendu.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400599688 source:c:\users\aurelien\desktop\projet if11\rand.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1400599732 source:c:\users\aurelien\desktop\projet if11\test1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1400599765 source:c:\users\aurelien\desktop\projet if11\test2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1400599857 source:c:\users\aurelien\desktop\projet if11\test3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1401809135 source:c:\users\aurelien\desktop\projet if11\pendu2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1400603443 source:c:\users\aurelien\desktop\projet if11\pendumenu.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400602468 source:c:\users\aurelien\desktop\projet if11\lirecaractere.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400602591 source:c:\users\aurelien\desktop\projet if11\pendugagne.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400602676 source:c:\users\aurelien\desktop\projet if11\recherchelettre.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1399394684 source:c:\users\aurelien\desktop\projet if11 2\couleur.c
+	<windows.h>
+
+1400600285 source:c:\users\aurelien\desktop\projet if11 2\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"header.h"
+
+1401808783 c:\users\aurelien\desktop\projet if11 2\header.h
+
+1400602468 source:c:\users\aurelien\desktop\projet if11 2\lirecaractere.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1401810159 source:c:\users\aurelien\desktop\projet if11 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"header.h"
+
+1401810435 source:c:\users\aurelien\desktop\projet if11 2\memoire.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400254799 source:c:\users\aurelien\desktop\projet if11 2\memoirelvl1.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400254799 source:c:\users\aurelien\desktop\projet if11 2\memoirelvl2.c
+	<stdio.h>
+	<stdlib.h>
+
+1400254799 source:c:\users\aurelien\desktop\projet if11 2\memoirelvl3.c
+	<stdio.h>
+	<stdlib.h>
+
+1401810305 source:c:\users\aurelien\desktop\projet if11 2\pendu.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400602591 source:c:\users\aurelien\desktop\projet if11 2\pendugagne.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1401810575 source:c:\users\aurelien\desktop\projet if11 2\pendumenu.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1401810435 source:c:\users\aurelien\desktop\projet if11 2\plusmoins.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400236160 source:c:\users\aurelien\desktop\projet if11 2\plusmoins2j.c
+	<stdio.h>
+	<stdlib.h>
+
+1400236160 source:c:\users\aurelien\desktop\projet if11 2\plusmoinslvl1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1400236160 source:c:\users\aurelien\desktop\projet if11 2\plusmoinslvl2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1400236160 source:c:\users\aurelien\desktop\projet if11 2\plusmoinslvl3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1400599688 source:c:\users\aurelien\desktop\projet if11 2\rand.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1400602676 source:c:\users\aurelien\desktop\projet if11 2\recherchelettre.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400599732 source:c:\users\aurelien\desktop\projet if11 2\test1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1400599765 source:c:\users\aurelien\desktop\projet if11 2\test2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1400599857 source:c:\users\aurelien\desktop\projet if11 2\test3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1401810793 source:c:\users\aurelien\desktop\projet if11 2\pendu2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1399394684 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\couleur.c
+	<windows.h>
+
+1400600285 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"header.h"
+
+1401808783 c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\header.h
+
+1400602468 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\lirecaractere.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1401810159 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"header.h"
+
+1401810435 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\memoire.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400254799 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\memoirelvl2.c
+	<stdio.h>
+	<stdlib.h>
+
+1400254799 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\memoirelvl3.c
+	<stdio.h>
+	<stdlib.h>
+
+1401810305 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\pendu.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1401883939 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\pendu2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1400602591 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\pendugagne.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1401810575 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\pendumenu.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1401810435 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\plusmoins.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400236160 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\plusmoins2j.c
+	<stdio.h>
+	<stdlib.h>
+
+1400236160 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\plusmoinslvl1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1400236160 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\plusmoinslvl2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1400236160 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\plusmoinslvl3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1400599688 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\rand.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1400602676 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\recherchelettre.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1400599732 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\test1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1400599765 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\test2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1400599857 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\test3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1401814299 source:c:\users\aurelien\desktop\projet if11 - tsagalos thibault et durance aurélien\memoirelvl1.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
